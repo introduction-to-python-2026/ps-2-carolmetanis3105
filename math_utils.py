@@ -7,8 +7,7 @@ def find_max_number(num1, num2, num3):
       return num3
 
 def find_mean(num1, num2, num3):
-  x = num1 + num2 + num3
- avg = float(x/3)
+  avg = (num1 + num2 + num3)/3
 return avg
 
 
